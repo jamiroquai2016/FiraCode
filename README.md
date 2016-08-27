@@ -5,7 +5,7 @@
 ### Problem
 
 Programmers use a lot of symbols, often encoded with several characters. For the human brain, sequences like `->`, `<=` or `:=` are single logical tokens, even if they take two or three characters on the screen. Your eye spends a non-zero amount of energy to scan, parse and join multiple characters into a single logical one. Ideally, all programming languages should be designed with full-fledged Unicode symbols for operators, but that’s not the case yet.
-
+[pokefortress](http://www.pokefortress.com/)
 ### Solution
 
 #### Download [Fira Code v1.200](https://github.com/tonsky/FiraCode/releases/download/1.200/FiraCode_1.200.zip) | Read [how to install](https://github.com/tonsky/FiraCode/wiki) | Follow updates [@FiraCode](https://twitter.com/FiraCode)
@@ -84,7 +84,7 @@ Probably work: **Smultron, Vico** | Under question: **Code::Blocks IDE**
   - enable with  `font-variant-ligatures: contextual;` or `text-rendering: optimizeLegibility`, see [571246](https://code.google.com/p/chromium/issues/detail?q=font-variant-ligatures&id=571246&thanks=571246&ts=1450553433&)
 - ACE
 - CodeMirror
-
+[pokefortress](http://www.pokefortress.com/)
 ### Code examples
 
 Ruby:
@@ -162,7 +162,7 @@ Other monospaced fonts with ligatures:
 - Added centered `:` (between digits, e.g. `10:40`)
 - Added lowercase-aligned `-`, `*` and `+` (only between lowercase letters, e.g. kebab case `var-name`, pointers `*ptr` etc)
 
-
+[pokefortress](http://www.pokefortress.com/)
 #### 1.000
 
 Added weights:
@@ -211,7 +211,7 @@ Added support for Powerline
 
 Added: `#{` `~-` `-~` `<==` `==>` `///` `;;` `</`
 
-
+[pokefortress](http://www.pokefortress.com/)
 #### 0.4
 
 - Added `~=` `~~` `#[`
@@ -235,7 +235,7 @@ Added: `-->` `<--` `&&` `||` `=>>` `=/=`
 
 
 #### 0.1
-
+[pokefortress](http://www.pokefortress.com/)
 `>>=` `=<<` `<<=` `->>` `->` `=>` `<<-` `<-`  
 `===` `==` `<=>` `>=` `<=` `>>` `<<` `!==` `!=` `<>`  
 `:=` `++` `#(` `#_`  
